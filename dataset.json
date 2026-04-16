@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full metro-level restaurant coverage for Rockford (Metro), Illinois, spanning Rockford. Covers the full metropolitan dining ecosystem of a growing metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Rockford (Metro), Illinois, US",
+  "export_job_id": "6ccaf862-b679-4b67-aa46-ca6d40586541",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 700319,
+  "location_name": "Rockford, IL",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-rockford-metro-illinois-us-sample-700319",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/700319/beamstation_700319_restaurants-us-rockfordil_SAMPLE_DIST.csv",
+  "sample_pct": 9.45,
+  "sample_records": 65,
+  "sample_sha256": "4d1edf276b943f68fe026c2cef7bbfaa49bf1d4e23b83374cb00715c3dbd060b",
+  "sample_size_bytes": 252389,
+  "total_records": 688,
+  "updated_at": "2026-04-09T10:19:35.433159+00:00"
+}
