@@ -1,6 +1,6 @@
 # All Restaurants in Rockford (Metro), Illinois, US
 
-> Free BeamStation sample export with 63 rows and masked direct-contact fields.
+> Free BeamStation sample export with 68 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `700319` |
 | Location | Rockford, IL |
 | Category | Restaurants |
-| Full dataset size | 639 records |
-| Free sample size | 63 records (9.86%) |
-| Last export | 2026-04-23T10:09:06.598743+00:00 |
+| Full dataset size | 682 records |
+| Free sample size | 68 records (9.97%) |
+| Last export | 2026-04-30T10:18:18.192696+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rockford-metro-illinois-us-sample-700319/releases/download/sample-latest/beamstation_700319_restaurants-us-rockfordil_SAMPLE_DIST.csv) |
 
 ## What is in this sample
